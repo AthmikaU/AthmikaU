@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athmika U</h1>
 <h3 align="center">Currently pursuing Bachelor of Engineering from Sahyadri College of Engineering & Management.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athmikau&label=Profile%20views&color=0e75b6&style=flat" alt="athmikau" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/athmika-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athmika-u" height="30" width="40" /></a>
@@ -18,6 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athmikau&show_icons=true&locale=en" alt="athmikau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athmikau&" alt="athmikau" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athmikau&label=Profile%20views&color=0e75b6&style=flat" alt="athmikau" /> </p>
 
 <!---
 - 👋 Hi, I’m @athmikau
