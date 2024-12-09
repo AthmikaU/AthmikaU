@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athmika U</h1>
-<h3 align="center">Currently pursuing Bachelor of Engineering from Sahyadri College of Engineering & Management.</h3>
+<h3 align="center">A Tech-Enthusiast, who is currently pursuing Bachelor of Engineering in Computer Science.</h3>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
